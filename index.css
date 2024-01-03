@@ -7,3 +7,18 @@ div{
    box-shadow: 20px aqua;
    border-radius: 10px;
 }
+.blog{
+    background-color: blueviolet;
+    color: aqua;
+    text-align: center;
+    font-size: 20;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-weight: 200;
+}
+.li{
+    background-color: burlywood;
+    margin-right: 60px;
+    padding: 10px;
+    color: aqua;
+}
