@@ -1,0 +1,9 @@
+div{
+    background-color: aquamarine;
+   color: tomato;
+   margin: 20px;
+   padding: 10px;
+   border: 10px solid blueviolet;
+   box-shadow: 20px aqua;
+   border-radius: 10px;
+}
